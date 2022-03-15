@@ -5,7 +5,6 @@ import { QuillEditorComponent } from './quill-editor.component'
 import { QUILL_CONFIG_TOKEN, QuillConfig } from './quill-editor.interfaces'
 import { QuillViewHTMLComponent } from './quill-view-html.component'
 import { QuillViewComponent } from './quill-view.component'
-
 @NgModule({
   declarations: [
     QuillEditorComponent,
